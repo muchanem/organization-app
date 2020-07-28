@@ -1,0 +1,17 @@
+[package]
+name = "organization_app"
+version = "0.1.0"
+authors = ["muchanem <mark@pztron.io>"]
+license = "GPL-3.0"
+build = "build.rs"
+exclude = ["artifacts.json", "index.node"]
+
+[lib]
+name = "organization_app"
+crate-type = ["cdylib"]
+
+[build-dependencies]
+neon-build = "0.4.0"
+
+[dependencies]
+neon = "0.4.0"
