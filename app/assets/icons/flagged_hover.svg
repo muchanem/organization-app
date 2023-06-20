@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsXl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="366 91 16 22" width="16" height="22">
+  <g id="Flagged" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" stroke="none" fill="none">
+    <title>Flagged</title>
+    <g id="Flagged: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 368 93 L 368 92 C 368 91.44772 367.5523 91 367 91 L 367 91 C 366.4477 91 366 91.44772 366 92 L 366 112 C 366 112.55228 366.4477 113 367 113 C 367.5523 113 368 112.55228 368 112 L 368 103 C 382 100 368 106 382 103 L 382 93 C 368 96 382 90 368 93 Z" fill="#ee6635"/>
+      </g>
+    </g>
+  </g>
+</svg>

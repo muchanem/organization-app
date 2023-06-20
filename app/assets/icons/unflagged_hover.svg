@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsXl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="367 305 16 22" width="16" height="22">
+    <defs>
+    <clipPath id="inner_stroke_clip_path">
+      <path d="M 369 307 L 369 306 C 369 305.4477 368.5523 305 368 305 L 368 305 C 367.4477 305 367 305.4477 367 306 L 367 326 C 367 326.5523 367.4477 327 368 327 C 368.5523 327 369 326.5523 369 326 L 369 317 C 383 314 369 320 383 317 L 383 307 C 369 310 383 304 369 307 Z"/>
+    </clipPath>
+  </defs><metadata> Produced by OmniGraffle 7.9 internal test
+    <dcDate>2018-07-19 22:54:02 +0000</dcDate>
+  </metadata><g id="Unflag" stroke="none" fill-opacity="1" stroke-dasharray="none" stroke-opacity="1" fill="none">
+    <title>Unflag</title>
+    <g id="Unflag: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_2">
+        <path d="M 369 307 L 369 306 C 369 305.4477 368.5523 305 368 305 L 368 305 C 367.4477 305 367 305.4477 367 306 L 367 326 C 367 326.5523 367.4477 327 368 327 C 368.5523 327 369 326.5523 369 326 L 369 317 C 383 314 369 320 383 317 L 383 307 C 369 310 383 304 369 307 Z" stroke="#f28a54" stroke-linecap="round" stroke-linejoin="miter" stroke-width="4" clip-path="url(#inner_stroke_clip_path)"/>
+      </g>
+    </g>
+  </g>
+</svg>

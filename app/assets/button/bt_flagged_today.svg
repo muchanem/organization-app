@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlnsDc="http://purl.org/dc/elements/1.1/" xmlnsXl="http://www.w3.org/1999/xlink" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="22" height="22">
+  <defs/>
+  <metadata> Produced by OmniGraffle 7.9.2
+    <dcDate>2018-10-29 17:27:43 +0000</dcDate>
+  </metadata>
+  <g id="checkbox-flagged-due" fill-opacity="1" stroke-opacity="1" stroke-dasharray="none" stroke="none" fill="none">
+    <title>checkbox-flagged-due</title>
+    <g id="checkbox-flagged-due: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_5">
+        <path d="M 21.999984 10.999994 C 21.999982 8.184855 20.926037 5.369717 18.778148 3.221838 C 14.48239 -1.073946 7.517594 -1.073946 3.2218355 3.221838 C 1.0739464 5.3697176 11970924e-13 8.184856 0 10.999995 L 2.7499993 10.999995 C 2.749999 8.888638 3.5554584 6.777282 5.166377 5.16637 C 8.388198 1.9445305 13.611797 1.9445305 16.833617 5.16637 C 18.444536 6.777281 19.249995 8.888638 19.249995 10.999994 Z" fill="#f28a54"/>
+      </g>
+      <g id="Graphic_4">
+        <path d="M 5499992e-12 10.999995 C 7100483e-12 13.815135 1.0739528 16.630275 3.2218426 18.778155 C 7.517603 23.07394 14.482402 23.07394 18.778163 18.778155 C 20.926053 16.630274 22 13.815134 22 10.999994 L 19.25 10.999995 C 19.25 13.111352 18.44454 15.22271 16.83362 16.833622 C 13.611798 20.055463 8.388196 20.055463 5.166374 16.833622 C 3.555455 15.22271 2.7499953 13.111352 2.7499952 10.999995 Z" fill="#f8dd7e"/>
+      </g>
+    </g>
+  </g>
+</svg>

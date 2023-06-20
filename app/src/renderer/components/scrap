@@ -1,0 +1,15 @@
+                {/*(tag.split(":")[0] === "context") ?
+                    <span className="rounded-full bg-slate-300 h-1 text-white">{tag.split(":").slice(1).join()}</span> :
+                */})
+        annotations ?
+            <svg viewBox="367 305 20 20" width="20" height="20">
+            <g id="Note-On" fill-opacity="1" stroke="none" stroke-dasharray="none" fill="none" stroke-opacity="1">
+                <title>Note-On</title>
+                <g id="Note-On: Layer 1">
+                    <title>Layer 1</title>
+                    <g id="Graphic_3">
+                        <path d="M 367 305 L 367 325 L 387 325 L 387 305 Z M 371 309 L 383 309 L 383 311 L 371 311 Z M 371 313 L 383 313 L 383 315 L 371 315 Z M 371 317 L 383 317 L 383 319 L 371 319 Z" fill={color}/>
+                    </g>
+                </g>
+            </g>
+            </svg>
